@@ -11,9 +11,8 @@ and update process to ease authoring of RFCs for core projects, especially cross
 
 ## Motivation
 
-> Why are we doing this? What use cases does it support? What is the expected
-outcome?
-
+The Ember project placed a high value on community since the beginning.
+This permeates all decisions related to the project, specifically the RFC process.
 The RFC process is the backbone of Ember.js development.
 Community empowerment.
 Diversity of thought/responsibilities/use cases.
@@ -24,6 +23,7 @@ RFCs can languish. Two ways to address this, FCP to Close and Core Champion.
 
 FCP to close [research Rust wording] does not necessarily mean that the idea is rejected out-right.
 The idea might need further iteration [named blocks], might be too early [glimmer components?], the direction of the project might have changed meanwhile [routable components [there are others]], or the scope of the RFC should be reduced [let rfc].
+FCP to inactive.
 
 Core champion.
 
@@ -39,7 +39,9 @@ and include examples of how the feature is used. Any new terminology should be
 defined here.
 
 * Add Core Champion to process
-* Add FCP to close
+* FCP
+    * FCP to close
+    * FCP to inactive
 * Add front matter to RFCs
     * teams array
 * Merge ember-cli/rfcs
