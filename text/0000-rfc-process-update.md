@@ -67,7 +67,6 @@ From ember-cli/rfcs
 Learning from Rust once again, have a Final Comment Period (FCP) to close a proposal.
 No “shame” in being rejected. Named blocks too several attempts.
 
-
 ### Implement tags as frontmatter
 
 This allows the RFC to specify which projects will be affected by it. To be accepted, a member of each tagged team must approve the RFC.
@@ -78,8 +77,6 @@ This allows the RFC to specify which projects will be affected by it. To be acce
 - Introduce Core Champion to emberjs/rfcs
 - Tag current RFCs
 - Bring all merged ember-cli/rfcs into the text folder of emberjs/rfcs.
-
-
 
 ## How We Teach This
 
